@@ -5,6 +5,8 @@ import sys
 
 "aaaaaaaaaaa"
 
+"saskeXNaruto"
+
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'mysite.settings')
     try:
